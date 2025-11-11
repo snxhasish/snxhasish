@@ -18,11 +18,11 @@ you can know more about me on [snehasish.xyz](https://snehasish.xyz)
 
 
 <a href="https://github.com/snxhasish/nixos-dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snxhasish&repo=nixos-dotfiles" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snxhasish&repo=nixos-dotfiles&theme=github_dark" />
 </a>
 
 <a href="https://github.com/snxhasish/vscode-status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snxhasish&repo=vscode-status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snxhasish&repo=vscode-status&theme=github_dark" />
 </a>
 
 ---
