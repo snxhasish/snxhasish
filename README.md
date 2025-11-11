@@ -16,6 +16,17 @@ you can know more about me on [snehasish.xyz](https://snehasish.xyz)
 
 ---
 
+
+<a href="https://github.com/snxhasish/nixos-dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snxhasish&repo=nixos-dotfiles" />
+</a>
+
+<a href="https://github.com/snxhasish/vscode-status">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snxhasish&repo=vscode-status" />
+</a>
+
+---
+
 | my tech stack |  |
 | --------- | --- |
 | languages | <img src="https://skillicons.dev/icons?i=typescript,javascript,python,c" /> |
