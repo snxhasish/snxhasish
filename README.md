@@ -14,7 +14,7 @@ an 18 year old **full-stack typescript web and app developer** based in india, w
 
 i create creative sites with mostly [next.js](https://nextjs.org). also into low-level, linux and hardware stuff (rasp pi's and arduino's).
 
-i am currently contributing to open-source projects [@fossted](https://github.com/fossted) and working on improving my CV.
+i am currently contributing to open-source projects and working on improving my CV.
 
 i use NixOS dual booted with windows (for gaming). [my nixOS dotfiles](https://github.com/snxhasish/nixos-dotfiles)
 
